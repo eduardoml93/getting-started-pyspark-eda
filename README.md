@@ -1,1 +1,1 @@
-# How to configure pyspark in google colab... and some EDA libs
+How to configure pyspark in google colab... and some EDA libs
